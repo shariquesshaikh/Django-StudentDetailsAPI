@@ -1,5 +1,5 @@
-# StudentDetails_API
-StudentDetails_API is a django rest API to GET and POST student details.
+# StudentDetailsAPI
+StudentDetailsAPI is a django rest API to GET and POST student details.
 
 ## Installations
 Django (version 3.0.2)
