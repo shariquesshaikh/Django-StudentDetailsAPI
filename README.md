@@ -20,4 +20,4 @@ sqlite3
 python 3.6.3
 ```
 
-If you are finding difficulties while setting your virtual environmet you can set ```bash venv ``` of this repository as your virtual environment with ```bash Python 3.6.3 ```. ```bash venv ``` has all the dependicies installed within it.
+If you are finding difficulties while setting your virtual environmet you can set ```bash venv ``` of this repository as your virtual environment with ```Python 3.6.3 ```. ```venv ``` has all the dependicies installed within it.
