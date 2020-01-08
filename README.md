@@ -1,14 +1,25 @@
-# StudentDetailsAPI
-Django Rest API to get the GET and POST the details of students
+# StudentDetails_API
+StudentDetails_API is a django rest API to GET and POST student details.
 
-DEPENDENCIES
-1)django (3.0.2): pip install django
-2)djanogorestframework (3.11.0): pip install djangorestframework
-
-DATABASE USED
+##Installations
+django 
+```bash
+version 3.0.2
+pip install django
+```
+djanogorestframework 
+```bash
+version 3.11.0
+pip install djangorestframework
+```
+##Database
+```bash
 sqlite3
+```
 
-PYTHON
+##Python 
+```bash
 python 3.6.3
+```
 
 
